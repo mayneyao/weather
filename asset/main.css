@@ -56,6 +56,13 @@ table{
     height: 30px;
 }
 
+#qlty{
+    width: 30px;
+    height: 30px;
+    display: block;
+    border-radius: 50%;
+    text-align: center;
+}
 .qlty{
     font-size: 20px;
 }
